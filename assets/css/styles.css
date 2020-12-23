@@ -295,7 +295,7 @@ img{
   z-index: var(--z-back);
 }
 .skills__html{
-  width: 65%;
+  width: 75%;
 }
 .skills__sql{
   width: 50%;
